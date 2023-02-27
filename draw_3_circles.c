@@ -1,3 +1,6 @@
+// Raymond de Groat - (c) 1995
+// University of Washngton - C Programming, Graphics
+
 #include<project.h>
 
 static void PlotPointsCircle(CGR_circle_p_t circle, long int x, long int y);
